@@ -1,6 +1,3 @@
-Here's a README file for your project:
-
-```markdown
 # AES - Minor Setback: A Quiz Game
 
 AES - Minor Setback is a multiple-choice quiz game developed as part of a school project at CESI. This interactive game tests your knowledge of foundational IT concepts through a series of engaging questions. Built using Python and Tkinter, the game features rounds of varying difficulty to challenge players and enhance learning.
