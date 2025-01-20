@@ -75,7 +75,7 @@ This project reinforces:
 ## Credits
 
 - **Developer**: Beta
-- **Year**: 2024
+- **Year**: 2025
 - Created as part of a CESI assignment.
 
 ## License
