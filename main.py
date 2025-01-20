@@ -286,7 +286,7 @@ class QuizGame:
             ("Developed", ("Comic Sans MS", 24, "bold"), 45),
             ("by", ("Arial", 16, "italic"), -20),
             ("Beta", ("Impact", 36, "bold"), 30),
-            ("2024", ("Courier", 12), 15),
+            ("2025", ("Courier", 12), 15),
             ("AES - Minor Setback", ("Times", 18, "bold"), 60),
         ]
 
